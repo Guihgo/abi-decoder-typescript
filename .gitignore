@@ -41,3 +41,5 @@ jspm_packages
 
 # dist no loger needed in git, bower was deprecated
 dist
+
+yarn.lock
